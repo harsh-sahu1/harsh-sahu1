@@ -284,8 +284,6 @@ I'm always open to interesting conversations — whether about AI research, a pr
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3978F6,50:1e3a5f,100:0f172a&height=120&section=footer&reversal=false" width="100%"/>
