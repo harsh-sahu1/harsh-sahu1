@@ -220,14 +220,14 @@ Developed for Smart India Hackathon (Team Apex). A real-time queue management an
 ## 📚 Currently Learning
 
 ```
-AI/ML Research Track          ████████████░░░░  70%
-LLM Structured Reasoning      ███████████░░░░░  65%
-System Design                 ████████░░░░░░░░  50%
-Data Structures & Algorithms  █████████░░░░░░░  55%
-Cloud Architecture            ███████░░░░░░░░░  45%
+AI/ML Fundamentals            ████████░░░░░░░░  45%  — actively building & exploring
+Prompt Engineering            ██████████░░░░░░  60%  — applied across multiple projects
+Data Structures & Algorithms  █████░░░░░░░░░░░  30%  — 89 problems solved, mostly easy
+Python Programming            ████████░░░░░░░░  50%  — primary language, growing daily
+System Design Basics          ████░░░░░░░░░░░░  25%  — early stage
 ```
 
-Currently exploring: **RAG pipelines**, **LLM evaluation frameworks**, **responsible AI audit techniques**, and **distributed system fundamentals**.
+Currently exploring: **AI/ML fundamentals**, **DSA problem solving**, **prompt engineering**, and **building practical AI prototypes**.
 
 ---
 
