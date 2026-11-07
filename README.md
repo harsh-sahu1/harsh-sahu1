@@ -220,11 +220,11 @@ Developed for Smart India Hackathon (Team Apex). A real-time queue management an
 ## 📚 Currently Learning
 
 ```
-AI/ML Fundamentals            ████████░░░░░░░░  45%  — actively building & exploring
-Prompt Engineering            ██████████░░░░░░  60%  — applied across multiple projects
-Data Structures & Algorithms  █████░░░░░░░░░░░  30%  — 89 problems solved, mostly easy
-Python Programming            ████████░░░░░░░░  50%  — primary language, growing daily
-System Design Basics          ████░░░░░░░░░░░░  25%  — early stage
+AI/ML Fundamentals            ████████░░░░░░░░  — actively building & exploring
+Prompt Engineering            ██████████░░░░░░  — applied across multiple projects
+Data Structures & Algorithms  █████░░░░░░░░░░░  — 89 problems solved, mostly easy
+Python Programming            ████████░░░░░░░░  — primary language, growing daily
+System Design Basics          ████░░░░░░░░░░░░  — early stage
 ```
 
 Currently exploring: **AI/ML fundamentals**, **DSA problem solving**, **prompt engineering**, and **building practical AI prototypes**.
