@@ -55,10 +55,6 @@ I'm a CS undergrad with a strong interest in AI/ML and a habit of building thing
 <td><strong>Smart India Hackathon — Top 20 + Consolation Prize</strong> — Team Apex reached the Top 20 at SIH preliminaries and received a consolation prize.</td>
 </tr>
 <tr>
-<td align="center">📝</td>
-<td><strong>JEE Main 2025 — 91.61 Percentile</strong> — Qualified for JEE Advanced 2025.</td>
-</tr>
-<tr>
 <td align="center">💻</td>
 <td><strong>Participated in 6+ Hackathons</strong> — Including national-level competitions across AI, sustainability, and social impact domains.</td>
 </tr>
