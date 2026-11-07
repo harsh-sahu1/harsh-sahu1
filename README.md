@@ -52,23 +52,19 @@ I'm a computer-science undergrad who doesn't just study AI — I ship it. My wor
 </tr>
 <tr>
 <td align="center">🚀</td>
-<td><strong>Smart India Hackathon — Top 20</strong> — Team Apex reached the Top 20 in preliminary rounds out of thousands of nationwide teams.</td>
+<td><strong>Smart India Hackathon — Top 20 + Consolation Prize</strong> — Team Apex reached the Top 20 at SIH preliminaries and received a consolation prize.</td>
 </tr>
 <tr>
-<td align="center">🥇</td>
-<td><strong>Gold Topper — BRAINOBRAIN State-Level Competition</strong></td>
+<td align="center">📝</td>
+<td><strong>JEE Main 2025 — 91.61 Percentile</strong> — Qualified for JEE Advanced 2025.</td>
 </tr>
 <tr>
-<td align="center">🏆</td>
-<td><strong>Class Topper — SOF Science Olympiad</strong></td>
+<td align="center">💻</td>
+<td><strong>Participated in 6+ Hackathons</strong> — Including national-level competitions across AI, sustainability, and social impact domains.</td>
 </tr>
 <tr>
-<td align="center">🥈</td>
-<td><strong>2nd Position — STEM Model Competition</strong></td>
-</tr>
-<tr>
-<td align="center">🎖️</td>
-<td><strong>Consolation Prize — JECRC University Hackathon</strong></td>
+<td align="center">🏅</td>
+<td><strong>30+ Certificates & Medals</strong> — Across academic, STEM, Olympiad, and competitive events.</td>
 </tr>
 </table>
 
@@ -108,7 +104,7 @@ AI-powered identification and safety triage for electronic waste. Users upload o
 
 **Stack:** `Python` `FastAPI` `Google Gemini API` `React` `TypeScript`
 
-<a href="https://github.com/harsh-sahu1/EcoSort-AI">
+<a href="https://github.com/harsh-sahu1/ecosort-ai">
   <img src="https://img.shields.io/badge/Source-GitHub-24292e?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -120,7 +116,7 @@ An AI-powered Resume × Job-Description matching engine with contradiction detec
 
 **Stack:** `Python` `FastAPI` `Google Gemini API` `React` `TypeScript` `Tailwind CSS`
 
-<a href="https://github.com/harsh-sahu1/Recruit-AI">
+<a href="https://github.com/harsh-sahu1/recruit-ai">
   <img src="https://img.shields.io/badge/Source-GitHub-24292e?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -132,7 +128,7 @@ A decision-support ML system that allocates academic intervention resources whil
 
 **Stack:** `Python` `scikit-learn` `pandas` `NumPy` `Jupyter`
 
-<a href="https://github.com/harsh-sahu1/Fair-Student-Support">
+<a href="https://github.com/harsh-sahu1/recruit-ai">
   <img src="https://img.shields.io/badge/Source-GitHub-24292e?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -144,7 +140,7 @@ Developed for Smart India Hackathon (Team Apex). A real-time queue management an
 
 **Stack:** `React` `JavaScript` `Python` `FastAPI` `PostgreSQL`
 
-<a href="https://github.com/harsh-sahu1/Kisan-Setu">
+<a href="https://github.com/harsh-sahu1/SIH">
   <img src="https://img.shields.io/badge/Source-GitHub-24292e?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -159,9 +155,10 @@ Developed for Smart India Hackathon (Team Apex). A real-time queue management an
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
