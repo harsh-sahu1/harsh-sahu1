@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/harsh-sahu1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=3978F6&center=true&vCenter=true&multiline=false&width=600&lines=AI+%2F+ML+Engineer+in+the+Making;Full-Stack+Developer;Evidence+Intelligence+Builder;Problem+Solver+%E2%86%92+Solution+Shipper" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=3978F6&center=true&vCenter=true&multiline=false&width=600&lines=AI+%2F+ML+Enthusiast;CS+Student+%40+JECRC+Foundation;AI-Powered+Prototype+Builder;Problem+Solver+%E2%86%92+Solution+Shipper" alt="Typing animation" />
 </a>
 
 <br/>
@@ -32,14 +32,14 @@
 const harsh = {
   name        : "Harsh Sahu",
   education   : "B.Tech CSE — JECRC Foundation, Jaipur",
-  focus       : ["AI / ML Research", "Full-Stack Engineering", "Evidence-Based Tooling"],
+  focus       : ["AI / ML Research", "AI-Powered Prototyping", "Evidence-Based Tooling"],
   aspiration  : "Build AI systems that make information more transparent and decisions more reliable.",
   currentlyAt : "Solving real problems with actual code, one project at a time.",
   tagline     : "Built with curiosity. Driven by innovation."
 };
 ```
 
-I'm a computer-science undergrad who doesn't just study AI — I ship it. My work sits at the intersection of large-language models, structured reasoning, and practical software engineering. I focus on building systems where AI output is **traceable, verifiable, and genuinely useful** — not impressive-sounding demos.
+I'm a CS undergrad with a strong interest in AI/ML and a habit of building things. I use AI-assisted development to translate ideas into working prototypes — from evidence intelligence platforms to e-waste classifiers. I'm still learning the fundamentals deeply, but I focus on building systems where the output is **traceable, verifiable, and genuinely useful**.
 
 ---
 
