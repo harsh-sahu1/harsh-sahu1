@@ -56,7 +56,7 @@ I'm a CS undergrad with a strong interest in AI/ML and a habit of building thing
 </tr>
 <tr>
 <td align="center">💻</td>
-<td><strong>Participated in 6+ Hackathons</strong> — Including national-level competitions across AI, sustainability, and social impact domains.</td>
+<td><strong>Participated in 8+ Hackathons</strong> — Including national-level competitions across AI, sustainability, and social impact domains.</td>
 </tr>
 <tr>
 <td align="center">🏅</td>
