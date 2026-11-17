@@ -94,7 +94,30 @@ Most people making high-stakes decisions—scholarships, visas, grants—piece t
 
 ---
 
-### 2 — EcoSort AI · *E-Waste Intelligence Assistant*
+### 2 — MEDNIVO · *AI-Powered Voice-First Elderly Healthcare Platform*
+
+> *Healthcare That Listens. Intelligence That Cares.*
+
+An accessible, voice-first geriatric healthcare management platform built for seniors, their families, and caregivers. Bridges complex prescription regimens and accessibility constraints (vision loss, tremors, digital literacy) through natural spoken interactions in Hindi and English with zero-trust clinical safety guardrails.
+
+| Feature | Description |
+|---|---|
+| 🎙️ Voice-first multimodal assistant | Spoken conversational interaction in Hindi & English (Gnani Prisma v2.5 STT + Timbre v2.5 TTS) |
+| 🧠 Clinical intent intelligence | NLU entity extraction and schedule querying powered by Google Gemini 3.1 Flash Lite |
+| 💊 Prescription & adherence engine | Multi-dose schedules, taken/missed tracking, and 30-day compliance score rings |
+| 🛡️ Clinical safety guardrails | Never auto-marks doses, locks prescription integrity, requires confirmation dialogs |
+| 👨‍👩‍👧 Family & caregiver circles | Remote adherence monitoring, missed-dose alerts, bedside admin logs, and daily wellness check-ins |
+| 🚨 Emergency SOS beacon | Instant notification dispatch to emergency contacts with explicit 112 transparency |
+
+**Stack:** `React 19` `TypeScript` `Vite` `Tailwind CSS v4` `FastAPI` `Python 3.13` `SQLAlchemy` `SQLite` `Gnani Prisma v2.5` `Gnani Timbre v2.5` `Google Gemini API` `Pytest` `Vitest` `Vercel`
+
+<a href="https://github.com/harsh-sahu1/Mednivo">
+  <img src="https://img.shields.io/badge/Source-GitHub-24292e?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### 3 — EcoSort AI · *E-Waste Intelligence Assistant*
 
 AI-powered identification and safety triage for electronic waste. Users upload or describe an item; the system classifies it, assesses hazardous component risk, and generates a step-by-step responsible disposal plan — bridging the gap between intent and action for sustainable e-waste management.
 
@@ -106,7 +129,7 @@ AI-powered identification and safety triage for electronic waste. Users upload o
 
 ---
 
-### 3 — Recruit AI · *Enterprise Resume Intelligence System*
+### 4 — Recruit AI · *Enterprise Resume Intelligence System*
 
 An AI-powered Resume × Job-Description matching engine with contradiction detection. Goes beyond keyword matching — it identifies discrepancies between claimed skills and demonstrated evidence, generates structured candidate profiles, and ranks candidates using verifiable reasoning chains.
 
@@ -118,19 +141,19 @@ An AI-powered Resume × Job-Description matching engine with contradiction detec
 
 ---
 
-### 4 — Fair Student Support System · *Bias-Audited ML for Academic Intervention*
+### 5 — Fair Student Support System · *Bias-Audited ML for Academic Intervention*
 
 A decision-support ML system that allocates academic intervention resources while actively auditing for group recall disparity. Built to surface fairness blind spots that standard accuracy metrics hide — a practical application of responsible AI in educational policy.
 
 **Stack:** `Python` `scikit-learn` `pandas` `NumPy` `Jupyter`
 
-<a href="https://github.com/harsh-sahu1/recruit-ai">
+<a href="https://github.com/harsh-sahu1/fair-student-support-system">
   <img src="https://img.shields.io/badge/Source-GitHub-24292e?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 ---
 
-### 5 — Kisan Setu · *MSP Procurement & Queue Management — SIH*
+### 6 — Kisan Setu · *MSP Procurement & Queue Management — SIH*
 
 Developed for Smart India Hackathon (Team Apex). A real-time queue management and MSP procurement portal for farmers — reducing wait times at government procurement centres through intelligent slot allocation and live status tracking.
 
@@ -173,6 +196,8 @@ Developed for Smart India Hackathon (Team Apex). A real-time queue management an
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
 
 </td>
